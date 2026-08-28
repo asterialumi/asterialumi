@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="encore" src="https://github.com/user-attachments/assets/94912141-6555-4de7-a727-fa394e2a4700" />
+<!-- <img width="1920" height="1080" alt="encore" src="https://github.com/user-attachments/assets/94912141-6555-4de7-a727-fa394e2a4700" /> -->
 
 <p align="center"><i>"Only you can make your art."</i></p>
 
