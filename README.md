@@ -21,7 +21,7 @@ Here is a list of my projects, some are finished, some are not, and some I'm wil
 - **Locus**: a self-made data structure API in C++
 - **Kara**: a time-tracker mobile application in Kotlin
 - **Encore**: a radially-scrolling rhythm game & level editor (what I'm currently working on)
-- **Ame**: a story-rich horror game prototype (what I plan to focus on after Encore)
+- **[Ame](https://team9lives.itch.io/ame)**: a story-rich horror game prototype (what I plan to focus on after Encore)
 
 ## Dream
 
