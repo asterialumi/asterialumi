@@ -14,7 +14,7 @@ Other skills I want to explore or improve:
 - Music Production
 - Game Design & Development
 
-If you're interested to see more of my creative works: [Creative Portfolio](https://canva.link/asterialumi-creative-portfolio)
+If you're interested to see more of my creative works, here's my [Creative Portfolio](https://canva.link/asterialumi-creative-portfolio).
 
 ## Projects
 Here is a list of my projects, some are finished, some are not, and some I'm willing to go back and improve.
